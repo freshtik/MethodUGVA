@@ -1,0 +1,61 @@
+.app_components {
+    box-sizing: border-box;
+    padding-bottom: 30px;
+} 
+
+.app_menu {
+    width: 250px;
+    overflow-x: hidden;
+    z-index: 1;
+    position: fixed;
+}
+
+.app_content {
+    margin-left: 250px;
+}
+
+.app_content_text {
+    max-width: 70%;
+    margin-left: 50px;
+}
+
+.app_content_table {
+    max-width: 85%;
+    margin-left: 50px;
+    box-sizing: border-box;
+}
+
+.app_content_visualization {
+    max-width: 95%;
+    margin-left: 50px;
+}
+
+.header {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.app_table {
+    width: 100%;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    border-collapse: collapse;
+    text-align: left;
+  }
+  
+.app_table th, td {
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+    border-color: white;
+    padding: 10px;
+}
+
+.app_table th {
+    background: #4d7497;
+    color: white;
+}
+
+.app_table td {
+    background: #D8E6F3;    
+}
+
+

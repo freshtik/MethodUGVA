@@ -1,0 +1,141 @@
+let dataForVisualization = {
+    proportions: {
+            Zero: {
+                hat_size: 0,
+                head_radius: 55,
+                smile_coef: 0,
+        
+                arm_right_height: 20,
+                shoulder_right_width: 0,
+                forearm_right_width: 0,
+                
+                arm_left_height: 20,
+                shoulder_left_width: 0,
+                forearm_left_width: 0,
+        
+                thorax_width: 0,
+                thorax_height: 50,
+                abdomen_width: 0,
+                abdomen_height: 40,
+        
+                pelvis_l1_width: 0,
+                pelvis_l1_height: 0,
+                pelvis_l2_width: 0,
+                pelvis_l2_height: 0,
+        
+                leg1_width: 0,
+                leg1_height: 0,
+                leg2_width: 0,
+                leg2_height: 0,
+                leg3_width: 0,
+                leg3_height: 0,
+            },
+            Minimum: {
+                hat_size: 30,
+                head_radius: 40,
+                smile_coef: -6,
+
+                arm_right_height: 10,
+                shoulder_right_width: 15,
+                forearm_right_width: 20,
+                arm_left_height: 10,
+                shoulder_left_width: 15,
+                forearm_left_width: 20,
+
+                thorax_width: 40,
+                thorax_height: 30,
+                abdomen_width: 30,
+                abdomen_height: 30,
+
+                pelvis_l1_width: 35,
+                pelvis_l1_height: 10,
+                pelvis_l2_width: 35,
+                pelvis_l2_height: 10,
+
+                leg1_width: 10,
+                leg1_height: 40,
+                leg2_width: 10,
+                leg2_height: 40,
+                leg3_width: 10,
+                leg3_height: 40,
+            },
+            Average: {
+                hat_size: 45,
+                head_radius: 55,
+                smile_coef: 3,
+
+                arm_right_height: 25,
+                shoulder_right_width: 40,
+                forearm_right_width: 50,
+                arm_left_height: 25,
+                shoulder_left_width: 40,
+                forearm_left_width: 50,
+
+                thorax_width: 85,
+                thorax_height: 50,
+                abdomen_width: 50,
+                abdomen_height: 40,
+
+                pelvis_l1_width: 85,
+                pelvis_l1_height: 20,
+                pelvis_l2_width: 85,
+                pelvis_l2_height: 30,
+
+                leg1_width: 30,
+                leg1_height: 130,
+                leg2_width: 30,
+                leg2_height: 130,
+                leg3_width: 30,
+                leg3_height: 130,
+            },
+            Maximum: {
+                hat_size: 60,
+                head_radius: 80,
+                smile_coef: 6,
+
+                arm_right_height: 40,
+                shoulder_right_width: 80,
+                forearm_right_width: 70,
+                arm_left_height: 40,
+                shoulder_left_width: 80,
+                forearm_left_width: 70,
+
+                thorax_width: 120,
+                thorax_height: 90,
+                abdomen_width: 120,
+                abdomen_height: 85,
+
+                pelvis_l1_width: 120,
+                pelvis_l1_height: 50,
+                pelvis_l2_width: 120,
+                pelvis_l2_height: 50,
+
+                leg1_width: 50,
+                leg1_height: 180,
+                leg2_width: 50,
+                leg2_height: 180,
+                leg3_width: 50,
+                leg3_height: 180,
+            },
+    },
+    colors: {
+            hat_color: "#FFFFFF",
+            head_color: "#FFFFFF",
+            arm_right_color: "#FFFFFF",
+            shoulder_right_color: "#FFFFFF",
+            arm_left_color: "#FFFFFF",
+            shoulder_left_color: "#FFFFFF",
+            forearm_left_color: "#FFFFFF",
+            forearm_right_color: "#FFFFFF",
+            body_color: "#FFFFFF",
+            thorax_color: "#FFFFFF",
+            abdomen_color: "#FFFFFF",
+            pelvis_l1_color: "#FFFFFF",
+            pelvis_l2_color: "#FFFFFF",
+            leg1_color: "#FFFFFF",
+            leg2_color: "#FFFFFF",
+            leg3_color: "#FFFFFF",
+        },
+}
+
+export default dataForVisualization;

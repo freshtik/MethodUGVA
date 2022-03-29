@@ -1,0 +1,24 @@
+.curriculums_content {
+    display: flex;
+    flex-direction: column;
+}
+
+.curriculums_btn {
+    margin: 0;
+}
+
+.curriculums_placeholder {
+    display: flex;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.curriculums_placeholder_input {
+    width: 100%;
+}
+
+.curriculums_table {
+    margin: 0;
+    margin-top: 15px;
+    width: 100%;
+}

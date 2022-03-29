@@ -1,0 +1,200 @@
+let estimates = [
+	{
+		id: 0,
+		discipline_id: 6,
+		skill_id: 0,
+		estimate: 0.5
+}, {
+		id: 1,
+		discipline_id: 7,
+		skill_id: 0,
+		estimate: 0.25
+}, {
+		id: 2,
+		discipline_id: 11,
+		skill_id: 0,
+		estimate: 0.25
+}, {
+		id: 3,
+		discipline_id: 12,
+		skill_id: 0,
+		estimate: 0.25
+}, {
+		id: 4,
+		discipline_id: 13,
+		skill_id: 0,
+		estimate: 0.25
+}, {
+		id: 5,
+		discipline_id: 14,
+		skill_id: 0,
+		estimate: 1
+}, {
+		id: 6,
+		discipline_id: 15,
+		skill_id: 0,
+		estimate: 1
+}, {
+		id: 7,
+		discipline_id: 16,
+		skill_id: 0,
+		estimate: 0.5
+}, {
+		id: 8,
+		discipline_id: 17,
+		skill_id: 0,
+		estimate: 1
+}, {
+		id: 9,
+		discipline_id: 21,
+		skill_id: 0,
+		estimate: 0.5
+}, {
+		id: 10,
+		discipline_id: 22,
+		skill_id: 0,
+		estimate: 0.5
+}, {
+		id: 11,
+		discipline_id: 23,
+		skill_id: 0,
+		estimate: 0.5
+}, {
+		id: 12,
+		discipline_id: 6,
+		skill_id: 1,
+		estimate: 0.25
+}, {
+		id: 13,
+		discipline_id: 8,
+		skill_id: 1,
+		estimate: 0.25
+}, {
+		id: 14,
+		discipline_id: 18,
+		skill_id: 1,
+		estimate: 1 
+}, {
+		id: 15,
+		discipline_id: 21,
+		skill_id: 1,
+		estimate: 0.5
+}, {
+		id: 16,
+		discipline_id: 22,
+		skill_id: 1,
+		estimate: 0.5
+}, {
+		id: 17,
+		discipline_id: 6,
+		skill_id: 2,
+		estimate: 0.25
+}, {
+		id: 18,
+		discipline_id: 18,
+		skill_id: 2,
+		estimate: 1
+}, {
+		id: 19,
+		discipline_id: 7,
+		skill_id: 3,
+		estimate: 0.75
+}, {
+		id: 20,
+		discipline_id: 8,
+		skill_id: 3,
+		estimate: 0.25
+}, {
+		id: 21,
+		discipline_id: 9,
+		skill_id: 3,
+		estimate: 0.25
+}, {
+		id: 22,
+		discipline_id: 10,
+		skill_id: 3,
+		estimate: 1
+}, {
+		id: 23,
+		discipline_id: 11,
+		skill_id: 3,
+		estimate: 1
+}, {
+		id: 24,
+		discipline_id: 12,
+		skill_id: 3,
+		estimate: 0.75
+}, {
+		id: 25,
+		discipline_id: 16,
+		skill_id: 3,
+		estimate: 0.5
+}, {
+		id: 26,
+		discipline_id: 1,
+		skill_id: 4,
+		estimate: 0.5
+}, {
+		id: 27,
+		discipline_id: 4,
+		skill_id: 4,
+		estimate: 0.5
+}, {
+		id: 28,
+		discipline_id: 5,
+		skill_id: 4,
+		estimate: 0.5
+}, {
+		id: 29,
+		discipline_id: 8,
+		skill_id: 4,
+		estimate: 1
+}, {
+		id: 30,
+		discipline_id: 19,
+		skill_id: 4,
+		estimate: 1
+}, {
+		id: 31,
+		discipline_id: 20,
+		skill_id: 4,
+		estimate: 1
+}, {
+		id: 32,
+		discipline_id: 23,
+		skill_id: 4,
+		estimate: 0.25
+}, {
+		id: 33,
+		discipline_id: 1,
+		skill_id: 5,
+		estimate: 1
+}, {
+		id: 34,
+		discipline_id: 2,
+		skill_id: 5,
+		estimate: 1
+}, {
+		id: 35,
+		discipline_id: 3,
+		skill_id: 5,
+		estimate: 1
+}, {
+		id: 36,
+		discipline_id: 9,
+		skill_id: 5,
+		estimate: 0.75
+}, {
+		id: 37,
+		discipline_id: 13,
+		skill_id: 5,
+		estimate: 0.75
+}, {
+		id: 38,
+		discipline_id: 23,
+		skill_id: 5,
+		estimate: 0.25
+},
+]
+
+export default estimates;

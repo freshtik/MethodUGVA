@@ -1,0 +1,64 @@
+.curriculums-review_table{
+    box-sizing: border-box;
+    font-size: 12px;
+    padding: 10px;
+}
+
+.curriculum-review_hidden {
+    display: none;
+}
+
+.curriculum-review_table_about-curriculum {
+    max-width: 80%;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.curriculum-review_table_about-curriculum td {
+    margin: 0;
+    padding: 8px 20px 8px 0;
+}
+
+.curriculums-review_article {
+    margin-top: 20px;
+}
+
+.curriculums-review_article_header {
+    font-size: 18px;
+    font-style: italic;
+}
+
+.curriculums-review_article_text {
+    max-width: 80%;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px solid #c9c9c9;
+    border-radius: 10px;
+    font-style: italic;
+}
+
+.curriculum-review_hidden-content {
+    display: flex;
+    margin-top: 20px;
+}
+
+.curriculum-review_hidden-content_btn {
+    width: 120px;
+    text-decoration: none;
+    text-align: left;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.curriculum-review_hr {
+    margin: 0;
+    margin: 2px;
+    border: 1px solid #c9c9c9;
+}
+
+.curriculum-review_hidden-content_p {
+    font-size: 16px;
+    font-weight: 700;
+    font-style: italic;
+}

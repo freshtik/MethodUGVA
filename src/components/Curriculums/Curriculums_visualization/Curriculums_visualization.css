@@ -1,0 +1,15 @@
+.curriculums_visualization_container {
+    display: flex;
+}
+
+.Curriculum-visualization_modal-button {
+    margin-top: 20px;
+}
+
+.Curriculum_visualization-smile {
+    margin-top: 20px;
+}
+
+.Curriculum_visualization-smile-text {
+    display: block;
+}

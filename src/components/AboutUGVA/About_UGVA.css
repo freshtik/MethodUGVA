@@ -1,0 +1,51 @@
+.about-ugva_content {
+    display: flex;
+    text-align: justify;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.about-ugva_content_article {
+    draggable: true;
+}
+
+.about-ugva_content_article p {
+    line-height: 1.7;
+    text-indent: 32px;
+}
+
+.about-ugva_content_img {
+    margin: 30px 0;
+    text-align: center;
+    font-style: italic;
+}
+
+.about-ugva_content_img img {
+    border: 1px solid #c9c9c9;
+    border-radius: 10px;
+}
+
+.about-ugva_content_article_list li {
+    padding-left: 10px;
+}
+
+.about-ugva_content_article_list li:not(:last-child){
+    margin-bottom: 5px;
+}
+
+.about-ugva_content_download-list {
+    padding: 15px;
+    border: 1px solid #c9c9c9;
+    border-radius: 10px;
+}
+
+.about-ugva_content a {
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+
+.about-ugva_content a:hover {
+    color: #4d7497;
+    font-weight: 700;
+}

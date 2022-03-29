@@ -1,0 +1,16 @@
+.curriculums-list_table {
+    font-size: 14px;
+}
+
+.curriculums-list_table th, td {
+padding: 10px 20px;
+}
+
+.table_td_icon {
+    text-align: center;
+}
+
+.table_td_navlink {
+    color: black;
+    text-decoration: none;
+}
